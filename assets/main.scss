@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+.page-content {
+    flex: 1;
+}
 
 .post-content {
     text-align: justify;
