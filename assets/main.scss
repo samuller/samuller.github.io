@@ -28,3 +28,18 @@ a:visited{
     color: $brand-color; /* override darkening of visited links */
 }
 
+/* Use Monokai theme for syntax highlighting */
+@import "monokai";
+/* Set background color for inline code */
+code {
+    background-color: lighten($background-color, 10%);
+    border-color: transparent;
+}
+/**
+* Set background for code blocks to be different from inline code.
+* We set no color so that Monokai's .highlight color is visible.
+*/
+pre, pre code {
+    background-color: transparent;
+}
+
