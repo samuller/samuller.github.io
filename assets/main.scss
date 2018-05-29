@@ -42,5 +42,7 @@ code {
 */
 pre, pre code {
     background-color: transparent;
+.highlighter-rouge .highlight {
+    background-color: unset;
 }
 
