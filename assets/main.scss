@@ -22,6 +22,12 @@ body {
 
 .post-content {
     text-align: justify;
+
+    img {
+        display: initial;
+        border-style: solid;
+        border-color: #656565;
+    }
 }
 
 a:visited{
