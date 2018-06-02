@@ -57,12 +57,3 @@ pre, pre code {
 .highlighter-rouge .highlight {
     background-color: unset;
 }
-
-/**
-* Add scrollbars when long lines appear in syntax highlighted code.
-*/
-.highlight span {
-    /* Also fixes weird glitch where comments (.c) in syntax highlighted code
-    have open lines below them. */
-    white-space: nowrap;
-}
