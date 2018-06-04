@@ -2,6 +2,7 @@
 layout: post
 title:  "Unlimited Bash history"
 categories: linux bash
+updated: 2018-05-29
 ---
 
 I find the following Bash history settings invaluable and use them on every Ubuntu terminal I can.

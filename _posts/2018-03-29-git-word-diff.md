@@ -2,6 +2,7 @@
 layout: post
 title:  "Git word-diff"
 categories: software git
+updated: 2018-06-04
 ---
 
 If you have the problem that you can't easily spot what has changed between two long lines of code or data when viewing the output of `git diff`, then you can use [word-diff](https://git-scm.com/docs/diff-options/#diff-options---word-diffltmodegt) which will show changes at a "word" level instead of per-line:

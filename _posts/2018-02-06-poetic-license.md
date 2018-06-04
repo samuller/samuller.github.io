@@ -2,6 +2,7 @@
 layout: post
 title:  "Poetic license"
 categories: software
+updated: 2018-05-29
 ---
 
 The Poetic license is the only open source license that I actually enjoyed reading [[source](https://stackoverflow.com/a/713113/690188)]:
