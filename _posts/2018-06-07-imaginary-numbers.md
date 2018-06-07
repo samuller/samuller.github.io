@@ -19,7 +19,7 @@ I enjoyed this short summary (by the user pdpi) describing the motivation behind
 >
 > The consequences of such a definition are nicely outlined by your post, but in alluding to previous number sets and their non-closure I find a lot of success.
 
-It was written in response to the top-rated comment. This amazing explanation (by the user GOD_Over_Djinn) is no longer short, but covers the concept in much more depth and yet still in a simple and clear manner [[source](https://www.reddit.com/r/explainlikeimfive/comments/10h7nl/eli5_complex_and_imaginary_numbers/c6djd3z)]:
+It was written in response to the top-rated comment. This amazing explanation (by the user GOD_Over_Djinn) is much longer, but covers the concept from the ground up in a simple and clear manner [[source](https://www.reddit.com/r/explainlikeimfive/comments/10h7nl/eli5_complex_and_imaginary_numbers/c6djd3z)]:
 
 > Long answer ahead.
 >
