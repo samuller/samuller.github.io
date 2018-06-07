@@ -38,6 +38,10 @@ a:visited{
     color: $brand-color; /* override darkening of visited links */
 }
 
+.site-footer {
+    padding: 0;
+}
+
 /* Use Monokai theme for syntax highlighting */
 @import "monokai";
 /* Set background color for inline code */
