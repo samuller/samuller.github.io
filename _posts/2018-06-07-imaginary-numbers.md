@@ -13,7 +13,7 @@ I enjoyed this short summary (by the user pdpi) describing the motivation behind
 >
 > The integers are not closed under division, so we constructed rationals.
 >
-> The rationals are not closed for for problems such as the ratio of C/d in a circle or the diagonal of a square, so we constructed irrationals to complement the rationals and create the real numbers.
+> The rationals are not closed for problems such as the ratio of C/d in a circle or the diagonal of a square, so we constructed irrationals to complement the rationals and create the real numbers.
 >
 > Finally, the reals are not closed for polynomials such as x² + 1 = 0, so we have need of more numbers. The definition of i = sqrt(-1) is no different an invention than the definition that 0 = x - x.
 >
